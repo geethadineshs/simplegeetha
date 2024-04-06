@@ -37,7 +37,7 @@ public class calculator {
 		System.out.println("The Substraction is : " + calculator.sub(input, input1));
 		System.out.println("The Multiplication is : " + calculator.mul(input, input1));
 		System.out.println("The Division is : " + calculator.div(input, input1));
-		
+		System.out.println("calculation over");
 		
 	}
 
